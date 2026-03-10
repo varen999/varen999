@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Vadrevu Naga Satya Varenya 👋
 
-<!--
-**varen999/varen999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science and Engineering student at **GITAM University (Hyderabad)** with strong interest in **Data Structures, Graph Theory, and Software Development**.
 
-Here are some ideas to get you started:
+Currently working on **spectral analysis of graph connectivity using eigenvalues of adjacency matrices**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical Interests
+
+- Data Structures & Algorithms
+- Graph Theory
+- Graph Databases (Neo4j)
+- Python, Java, C
+- Mathematical Computing
+
+---
+
+## Projects
+
+- Crime Data Analysis Program (Python)
+- Movie Ticket Booking System (C)
+- Graph Connectivity Analyzer (Python)
+- Color Sorting Machine (Arduino Nano)
+
+---
+
+## Research
+
+Working on **Spectral Analysis of Graph Connectivity using Eigenvalues of the Adjacency Matrix**.
+
+The research studies how graph connectivity changes when edges are added or removed using spectral graph theory.
+
+---
+
+## Creative Work
+
+Secretary – **The Filmmakers Club, GITAM University**
+
+Researcher & Writer – **GITAM Unscripted Podcast**
+
+Interests in **filmmaking, editing, and music composition**.
+
+---
+
+## Connect with Me
+
+LinkedIn  
+https://www.linkedin.com/in/varen999
+
+GitHub  
+https://github.com/varen999
+
+Email  
+varenyavadrevu112@gmail.com
