@@ -1,4 +1,4 @@
-# Hi, I'm Vadrevu Naga Satya Varenya 👋
+# Hi, I'm Varenya 👋
 
 Computer Science and Engineering student at **GITAM University (Hyderabad)** with strong interest in **Data Structures, Graph Theory, and Software Development**.
 
