@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%F0%9F%92%BB;Graph+Theory+Enthusiast+%F0%9F%95%B8%EF%B8%8F;Problem+Solver+%F0%9F%A7%A9;Software+Developer+%F0%9F%9A%80;Exploring+AI+%26+Network+Analysis+%F0%9F%A4%96" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%F0%9F%92%BB;Graph+Theory+Enthusiast+%F0%9F%95%B8%EF%B8%8F;Problem+Solving+Enthusiast+%F0%9F%A7%A9;;Exploring+AI+%26+Network+Analysis+%F0%9F%A4%96" />
 </p>
 
 ---
